@@ -3,7 +3,7 @@ package com.springDemo;
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 
-public class Triangle implements InitializingBean, DisposableBean {
+public class Triangle implements InitializingBean, DisposableBean, Shape {
 
 	private String type;
 	public Triangle(String type){
@@ -39,7 +39,7 @@ public class Triangle implements InitializingBean, DisposableBean {
 		this.pointC = pointC;
 	}
 	public void draw(){
-		//System.out.println(getType() + "Triangle drawn");
+		System.out.println("Drawing Triangle");
 		System.out.println("Points are = " + getPointA().getX() + getPointA().getY() + getPointB().getX() + getPointB().getY() + getPointC().getX() + getPointC().getY());
 	}
 	@Override
