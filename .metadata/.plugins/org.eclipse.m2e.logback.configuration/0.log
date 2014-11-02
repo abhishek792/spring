@@ -1,0 +1,11 @@
+2014-10-28 16:18:59,513 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.paypal.training:daltest:0.0.1-SNAPSHOT @ C:\Users\abchauhan\Downloads\daltest\pom.xml.
+2014-10-28 16:19:00,506 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-10-28 16:19:00,510 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2014-10-28 16:19:00,534 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-10-28 16:19:00,535 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-10-28 16:19:00,911 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.paypal.training:daltest:0.0.1-SNAPSHOT @ C:\Users\abchauhan\Downloads\daltest\pom.xml.
+2014-10-28 16:19:01,041 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.paypal.training:daltest:0.0.1-SNAPSHOT @ C:\Users\abchauhan\Downloads\daltest\pom.xml.
+2014-10-28 16:19:02,719 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-10-28 16:19:02,725 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2014-10-28 16:19:02,743 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-10-28 16:19:02,743 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
