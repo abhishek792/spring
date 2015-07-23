@@ -12,6 +12,7 @@ public class Circle implements Shape {
 	@Override
 	public void draw() {
 		System.out.println("Circle point is {" + center.getX() + "," + center.getY() + "}");
+		System.out.println("GIT");
 		
 	}
 
