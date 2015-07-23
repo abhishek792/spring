@@ -1,6 +1,7 @@
 package com.springDemo;
 
 public class Point {
+	//sfgafaa
 	private int x;
 	private int y;
 	public int getX() {
